@@ -1,5 +1,5 @@
 # 2303a51177
-lab01
+lab 01
 https://github.com/babluu1617/2303a51177/blob/main/lab_01.ipynb<br>
 Lab 02
 https://github.com/babluu1617/2303a51177/blob/main/Lab_2.ipynb<br>
