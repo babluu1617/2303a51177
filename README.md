@@ -10,4 +10,6 @@ https://github.com/babluu1617/2303a51177/blob/main/Lab_4_AIML.ipynb<br>
 lab 05
 https://github.com/babluu1617/2303a51177/blob/main/lab5.ipynb<br>
 lab 06
-https://github.com/babluu1617/2303a51177/blob/main/Lab_6.ipynb
+https://github.com/babluu1617/2303a51177/blob/main/Lab_6.ipynb<br>
+lab 07
+https://github.com/babluu1617/2303a51177/blob/main/Lab%207.ipynb
