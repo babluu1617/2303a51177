@@ -12,4 +12,6 @@ https://github.com/babluu1617/2303a51177/blob/main/lab5.ipynb<br>
 lab 06
 https://github.com/babluu1617/2303a51177/blob/main/Lab_6.ipynb<br>
 lab 07
-https://github.com/babluu1617/2303a51177/blob/main/Lab%207.ipynb
+https://github.com/babluu1617/2303a51177/blob/main/Lab%207.ipynb<br>
+lab 08
+https://github.com/babluu1617/2303a51177/blob/main/Lab%2008.ipynb
